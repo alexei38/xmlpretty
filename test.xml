@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE roles SYSTEM "http://www.naumen.com/dtd/roles-1.0.dtd">
+<publisher
+    name="BSC"
+    published-class="ru.naumen.qm.bsc.instance.BSC">
+    <tab
+        attr1="value"
+        attr2="value2"
+        attr3="value3">
+        <card-list attr1="value">
+            <property
+                attr1="value"
+                attr2="value2"
+                attr3="value3"/>
+            <property
+                attr1="value"
+                attr2="value2"
+                attr3="value3"/>
+            <property
+                attr1="value"
+                attr2="value2"
+                attr3="value3"/>
+        </card-list>
+        <!--Comment-->
+        <layout-container
+            attr1="value"
+            attr2="value2"
+            attr3="value3">
+            <tree-list
+                attr1="value"
+                attr2="value2"
+                attr3="value3">
+                Content Content Content Content Content Content
+            </tree-list>
+        </layout-container>
+    </tab>
+    <!--Comment-->
+    <node>string</node>
+    <layout-container
+        attr1="value"
+        attr2="value2"
+        attr3="value3">
+        <tree-list
+            attr1="value"
+            attr2="value2"
+            attr3="value3">
+            Content Content Content Content Content Content
+        </tree-list>
+    </layout-container>
+</publisher>
